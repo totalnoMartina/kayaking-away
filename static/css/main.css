@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 0;
     color: blue;
-    background-image: url('/static/images/crvenkapicakresh.jpg');
+    background-image: url('/images/crvenkapicakresh.jpg');
 }
 
 header {
@@ -21,6 +21,7 @@ img {
 section {
     margin: 3rem;
     padding: 2rem;
+    background-color: rgba(224, 161, 138, 0.381);
 }
 
 footer {
