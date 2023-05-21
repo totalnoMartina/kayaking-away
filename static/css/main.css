@@ -1,16 +1,29 @@
 body {
     margin: 0;
     padding: 0;
+    color: blue;
     background-image: url('/static/images/crvenkapicakresh.jpg');
 }
 
-h1 {
+header {
     padding: 4rem;
-    color: blue;
+    margin: 2rem;
     text-align: center;
     align-items: center;
 }
 
+
 img {
     width: 14rem;
+    margin: 2rem;
+}
+
+section {
+    margin: 3rem;
+    padding: 2rem;
+}
+
+footer {
+    text-align: center;
+    padding: 3rem;
 }
