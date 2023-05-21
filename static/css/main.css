@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 0;
     color: blue;
-    background-image: url('/images/crvenkapicakresh.jpg');
+    background-image: url('/static/images/crvenkapicakresh.jpg');
 }
 
 header {
